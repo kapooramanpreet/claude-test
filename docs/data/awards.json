@@ -179,6 +179,24 @@
       "dateAdded": "2026-03-09T15:37:47.778Z",
       "status": "active",
       "isRecurring": true
+    },
+    {
+      "id": "4a790e8d-e5d3-49e8-b9ea-5624b1662c64",
+      "title": "UF Awards for Excellence in AI",
+      "level": "University (internal to UF)",
+      "link": "https://ai.ufl.edu/teaching-with-ai/for-uf-faculty/ai-faculty-awards/",
+      "deadlineMonth": "September",
+      "deadlineDay": 9,
+      "deadlineDate": "2026-09-09",
+      "applicationMode": "Apply Independently (No Internal Review Required)",
+      "awardFor": "Faculty, Staff, Graduate Students, Undergraduate Students",
+      "type": "Plaque/Certificate",
+      "internalDeadline": "",
+      "requirements": "AI Educator of the Year - honors an instructor who has made exceptional contributions in the space of AI for teaching & learning. This may include at the course, program, college, or campus level.\n\nAI Course Award - recognizes an instructor or instructional team who has developed a high-quality credit-bearing course with an AI designation from UF. Courses from Spring 2024, Summer 2024, Fall 2024, and Spring 2025 are eligible for this award.\n\nAI Teaching Integration Award - commends an instructor or instructional team who has implemented AI solutions within their existing course subject. This award honors creative use of AI in traditionally non-AI courses. Examples include developing new assignment types, experiential learning opportunities, or course content using AI. Courses from Spring 2024, Summer 2024, Fall 2024, and Spring 2025 are eligible for this award.\n\nAI Across the Curriculum Ambassador - appreciates an individual (faculty or staff) who has championed AI adoption across the curriculum at UF. Examples may include, but are not limited to developing new AI certificates, participating in AI Days event to promote AI at UF, giving presentations about AI for teaching to various stakeholders on campus, teaching professional development about AI on campus, engaging UF community members in discourse around AI for teaching, etc. \n\nAI Rising Star - distinguishes an individual who, as a newcomer to AI at UF, has made an enthusiastic impact on the AI community at UF. Rising Star faculty participate in professional development about AI and in AI events and committees across campus. \n\nFor an AI Awards nomination, you will need to submit:\n\n- The name and college of the person submitting the nomination\n- The award category \n- The name(s), college(s), and department(s) of the nominee(s)\n- A description of the nominee's contributions in the award category (500 words)\n- Supplemental Materials can be submitted as PDFs\n- [AI Course Awards Nominations Only] If the course has an AI Course Designation or Quality Course Designation ",
+      "previousAwardees": "Andrea Ram?rez-Salgado, Diego Alvarado, Catia Silva",
+      "dateAdded": "2026-08-04T19:05:37.302Z",
+      "status": "active",
+      "isRecurring": true
     }
   ],
   "lastUpdated": "2026-02-12T11:25:01.000Z",
