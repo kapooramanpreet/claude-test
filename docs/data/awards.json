@@ -197,6 +197,24 @@
       "dateAdded": "2026-08-04T19:05:37.302Z",
       "status": "active",
       "isRecurring": true
+    },
+    {
+      "id": "c7030bc7-055c-4f68-ae2d-2f142e5d33d1",
+      "title": "UF Superior Accomplishment Award",
+      "level": "University (internal to UF)",
+      "link": "https://hr.ufl.edu/professional-development/employee-awards/superior-accomplishment-awards/",
+      "deadlineMonth": "October",
+      "deadlineDay": 23,
+      "deadlineDate": "2026-10-23",
+      "applicationMode": "Apply Independently (No Internal Review Required)",
+      "awardFor": "Faculty, Staff",
+      "type": "Cash/Monetary Prize, Plaque/Certificate",
+      "internalDeadline": "",
+      "requirements": "The Superior Accomplishment Awards Program recognizes eligible faculty and staff members across the University of Florida and the UF Health enterprise. The program honors those who have demonstrated outstanding and meritorious service, improved efficiency, operational excellence and/or made a meaningful impact on the quality of life for students, patients, employees and the communities we serve.\n\nThe program is designed to recognize exceptional faculty and staff for their dedication, commitment to",
+      "previousAwardees": "Mike Seufert, Amanpreet Kapoor",
+      "dateAdded": "2026-09-03T20:10:41.154Z",
+      "status": "active",
+      "isRecurring": true
     }
   ],
   "lastUpdated": "2026-02-12T11:25:01.000Z",
